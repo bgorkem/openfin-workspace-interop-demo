@@ -1,0 +1,48 @@
+[
+
+  {
+    "name": "my-local-app",
+    "title": "Local -TestApp",
+    "manifest": "http://localhost:8080/appmanifest.json",
+    "manifestType": "view",
+    "icons": [
+      {
+        "icon": "http://localhost:8080/app.ico"
+      }
+    ]
+  },
+
+  {
+    "name": "expero-company-news",
+    "title": "Local - Company News",
+    "manifest": "https://openfin-iex.experolabs.com/openfin/manifests/company-news.json",
+    "manifestType": "view",
+    "icons": [
+      {
+        "icon": "https://openfin-iex.experolabs.com/favicon.ico"
+      }
+    ]
+  },
+  {
+    "name": "expero-description",
+    "title": "Local - Description",
+    "manifest": "https://openfin-iex.experolabs.com/openfin/manifests/description.json",
+    "manifestType": "view",
+    "icons": [
+      {
+        "icon": "https://openfin-iex.experolabs.com/favicon.ico"
+      }
+    ]
+  },
+  {
+    "name": "expero-stock-quote",
+    "title": "Local - Stock Quote",
+    "manifest": "https://openfin-iex.experolabs.com/openfin/manifests/stock-quote.json",
+    "manifestType": "view",
+    "icons": [
+      {
+        "icon": "https://openfin-iex.experolabs.com/favicon.ico"
+      }
+    ]
+  }
+]
